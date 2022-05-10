@@ -1,4 +1,5 @@
-﻿call git add .
+﻿
+call git add .
 call git commit -m "addSomeFile"
 call git push
 

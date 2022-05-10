@@ -21,7 +21,7 @@
     <link href="/2022/05/09/%E5%8F%91%E5%B8%83Hexo%E5%8D%9A%E5%AE%A2/"/>
     <url>/2022/05/09/%E5%8F%91%E5%B8%83Hexo%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[<h1 id="发布Hexo博客"><a href="#发布Hexo博客" class="headerlink" title="发布Hexo博客"></a>发布Hexo博客</h1><h2 id="Github-Nodejs-Hexo搭建博客"><a href="#Github-Nodejs-Hexo搭建博客" class="headerlink" title="Github+Nodejs+Hexo搭建博客"></a>Github+Nodejs+Hexo搭建博客</h2><ol><li>安装git、nodeJs、hexo(npm install hexo -g)</li><li>初始化Hexo:hexo init</li><li>修改文件夹中_config.yml中最后的位置<ul><li>deploy:<ul><li>-type: git</li><li>-repo: git中的代码库路径</li><li>-branch: master</li></ul></li></ul></li><li>新建博客: hexo new “新博客”</li><li>编辑完后生成博客： hexo g 或 hexo generate</li><li>部署到github: hexo depoly 或 hexo d</li></ol>]]></content>
+    <content type="html"><![CDATA[<h1 id="发布Hexo博客"><a href="#发布Hexo博客" class="headerlink" title="发布Hexo博客"></a>发布Hexo博客</h1><h2 id="Github-Nodejs-Hexo搭建博客"><a href="#Github-Nodejs-Hexo搭建博客" class="headerlink" title="Github+Nodejs+Hexo搭建博客"></a>Github+Nodejs+Hexo搭建博客</h2><ol><li>安装git、nodeJs、hexo(npm install hexo -g)</li><li>初始化Hexo:hexo init</li><li>修改文件夹中_config.yml中最后的位置<ul><li>deploy:<ul><li>-type: git</li><li>-repo: git中的代码库路径</li><li>-branch: master</li></ul></li></ul></li><li>新建博客: hexo new “新博客”</li><li>编辑完后生成博客： hexo g 或 hexo generate</li><li>部署到github: hexo depoly 或 hexo d</li><li>新的东西</li></ol>]]></content>
     
     
     
