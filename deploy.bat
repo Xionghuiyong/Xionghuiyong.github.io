@@ -12,3 +12,4 @@ call git commit -m 'add someFile'
 call git push
 
 call git checkout hexo_md
+call Console.ReadLine()
