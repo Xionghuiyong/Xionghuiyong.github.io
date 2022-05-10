@@ -1,4 +1,4 @@
-﻿@echo off
+﻿echo off
 call git add .
 call git commit -m 'add someFile'
 call git push
