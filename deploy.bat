@@ -15,4 +15,3 @@ call git commit -m "addSomeFile"
 call git push
 
 call git checkout hexo_md
-call Console.ReadLine()
