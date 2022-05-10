@@ -17,3 +17,4 @@ tags: Hexo技巧
 5. 编辑完后生成博客： hexo g 或 hexo generate
 6. 部署到github: hexo depoly 或 hexo d
 7. 新的东西hahahhahahasdafasdfasdf
+8. 再来一行
